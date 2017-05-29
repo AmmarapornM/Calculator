@@ -1,5 +1,5 @@
 {
-    "name": "ammarapornM/calculator",
+    "name": "ammarapornm/calculator",
     "authors": [
         {
             "name": "AmmarapornM",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload":{
         "psr-4":{
-            "ammarapornM\\Calculator\\": "src/"
+            "ammarapornm\\Calculator\\": "src/"
         }
     }
 }
