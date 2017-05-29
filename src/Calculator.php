@@ -1,6 +1,6 @@
 <?php
 
-namespace AmmaraoprnM\Calculator;
+namespace ammaraoprnM\Calculator;
 
 class Calculator
 {
