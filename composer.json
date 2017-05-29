@@ -1,0 +1,15 @@
+{
+    "name": "AmmarapornM/calculator",
+    "authors": [
+        {
+            "name": "AmmarapornM",
+            "email": "ammarapornm57@email.nu.ac.th"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "AmmarapornM\\Calculator\\": "src/"
+        }
+    }
+}
